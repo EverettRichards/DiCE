@@ -1,0 +1,35 @@
+Video:user1_activity2_Notion.mp4
+CSV:user1_task2.csv
+Start Time (s),End Time (s),Task Name
+0:10,0:22,Pick Up Wood Plank
+1:16,1:24,Hammer Nail
+1:27,1:36,Drill Vertically
+1:48,1:55,Hammer Nail
+2:15,2:22,Hammer Nail
+2:59,3:06,Hammer Nail
+3:14,3:26,Drill Vertically
+3:39,3:47,Hammer Nail
+4:14,4:17,Hammer Nail Sideways
+4:49,5:04,Hammer Nail Sideways
+5:36,5:50,Install and Hammer Horizontal Beam
+5:57,6:17,Install and Hammer Horizontal Beam
+6:28,6:43,Use tape measure on horizontal beam
+6:50,7:04,Cut wood beam with power saw
+7:08,7:16,Install and Hammer Horizontal Beam
+7:29,7:41,Cut wood beam with power saw
+7:52,8:15,Align and remove wood beam
+9:10,9:20,Hammer Metal Pole
+9:39,9:47,Hammer Metal Pole
+10:27,10:34,Use tape measure on floor
+10:40,10:57,Use tape measure on floor
+11:20,11:27,Hammer Nail Sideways
+11:30,11:37,Hammer Nail Sideways
+11:50,12:09,Hammer Nail Into Small Plate
+12:15,12:40,Hammer Nail Into Small Plate
+12:05,13:02,Hammer Nail Sideways
+13:13,13:28,Spraying Aerosol Can onto Wood
+13:28,13:43,Spraying Aerosol Can onto Wood
+13:43,13:58,Spraying Aerosol Can onto Wood
+13:58,14:13,Spraying Aerosol Can onto Wood
+14:17,14:32,Spraying Aerosol Can onto Wood
+14:40,15:00,Spraying Aerosol Can onto Wood

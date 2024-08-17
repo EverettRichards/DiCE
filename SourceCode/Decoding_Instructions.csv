@@ -1,0 +1,33 @@
+Input CSV Name,Input Video Name,Start Time (s),End Time (s),Task Name
+user1_task2.csv,user1_activity2_Notion.mp4,0:10,0:22,Pick Up Wood Plank
+user1_task2.csv,user1_activity2_Notion.mp4,1:16,1:24,Hammer Nail
+user1_task2.csv,user1_activity2_Notion.mp4,1:27,1:36,Drill Vertically
+user1_task2.csv,user1_activity2_Notion.mp4,1:48,1:55,Hammer Nail
+user1_task2.csv,user1_activity2_Notion.mp4,2:15,2:22,Hammer Nail
+user1_task2.csv,user1_activity2_Notion.mp4,2:59,3:06,Hammer Nail
+user1_task2.csv,user1_activity2_Notion.mp4,3:14,3:26,Drill Vertically
+user1_task2.csv,user1_activity2_Notion.mp4,3:39,3:47,Hammer Nail
+user1_task2.csv,user1_activity2_Notion.mp4,4:14,4:17,Hammer Nail Sideways
+user1_task2.csv,user1_activity2_Notion.mp4,4:49,5:04,Hammer Nail Sideways
+user1_task2.csv,user1_activity2_Notion.mp4,5:36,5:50,Install and Hammer Horizontal Beam
+user1_task2.csv,user1_activity2_Notion.mp4,5:57,6:17,Install and Hammer Horizontal Beam
+user1_task2.csv,user1_activity2_Notion.mp4,6:28,6:43,Use tape measure on horizontal beam
+user1_task2.csv,user1_activity2_Notion.mp4,6:50,7:04,Cut wood beam with power saw
+user1_task2.csv,user1_activity2_Notion.mp4,7:08,7:16,Install and Hammer Horizontal Beam
+user1_task2.csv,user1_activity2_Notion.mp4,7:29,7:41,Cut wood beam with power saw
+user1_task2.csv,user1_activity2_Notion.mp4,7:52,8:15,Align and remove wood beam
+user1_task2.csv,user1_activity2_Notion.mp4,9:10,9:20,Hammer Metal Pole
+user1_task2.csv,user1_activity2_Notion.mp4,9:39,9:47,Hammer Metal Pole
+user1_task2.csv,user1_activity2_Notion.mp4,10:27,10:34,Use tape measure on floor
+user1_task2.csv,user1_activity2_Notion.mp4,10:40,10:57,Use tape measure on floor
+user1_task2.csv,user1_activity2_Notion.mp4,11:20,11:27,Hammer Nail Sideways
+user1_task2.csv,user1_activity2_Notion.mp4,11:30,11:37,Hammer Nail Sideways
+user1_task2.csv,user1_activity2_Notion.mp4,11:50,12:09,Hammer Nail Into Small Plate
+user1_task2.csv,user1_activity2_Notion.mp4,12:15,12:40,Hammer Nail Into Small Plate
+user1_task2.csv,user1_activity2_Notion.mp4,12:05,13:02,Hammer Nail Sideways
+user1_task2.csv,user1_activity2_Notion.mp4,13:13,13:28,Spraying Aerosol Can onto Wood
+user1_task2.csv,user1_activity2_Notion.mp4,13:28,13:43,Spraying Aerosol Can onto Wood
+user1_task2.csv,user1_activity2_Notion.mp4,13:43,13:58,Spraying Aerosol Can onto Wood
+user1_task2.csv,user1_activity2_Notion.mp4,13:58,14:13,Spraying Aerosol Can onto Wood
+user1_task2.csv,user1_activity2_Notion.mp4,14:17,14:32,Spraying Aerosol Can onto Wood
+user1_task2.csv,user1_activity2_Notion.mp4,14:40,15:00,Spraying Aerosol Can onto Wood
